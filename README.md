@@ -1,2 +1,1 @@
-# BubbleSort
-Bubblesort program using Java
+# BubbleSort program using Java
